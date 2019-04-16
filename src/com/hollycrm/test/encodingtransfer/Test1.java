@@ -1,6 +1,5 @@
 package com.hollycrm.test.encodingtransfer;
 
-import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.OutputStreamWriter;
 
