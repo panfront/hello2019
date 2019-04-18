@@ -7,5 +7,6 @@ public class FundamentalDemo {
         System.out.println("3rd");
         System.out.println("4st");
         System.out.println("5st");
+        System.out.println("6st");
     }
 }
