@@ -5,7 +5,7 @@ public class NewDemo {
 		System.out.println("hello world!");
 		System.out.println("hello world3");
 		System.out.println("hello world4 gitee 1");
-		System.out.println("hello world5");
+		System.out.println("hello world5 gitee 2");
 		
 	}
 }
