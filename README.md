@@ -10,8 +10,6 @@
         * 列表三
 
 [![baidu]](http://www.baidu.com)
-[baidu]:http://gitee.com/panfront/hello2019/raw/master/bd_logo1.png "百度logo"  
+[baidu]:http://gitee.com/panfront/hello2019/raw/master/bd_logo1.png   
 
 
-[![baidu]](http://baidu.com)  
-[baidu]:http://www.baidu.com/img/bdlogo.gif "百度Logo"  
