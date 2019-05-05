@@ -13,7 +13,7 @@
 ![baidu](http://gitee.com/panfront/hello2019/raw/master/bd_logo1.png "百度logo")  
 
 [![baidu]](http://www.baidu.com)
-[baidu](http://gitee.com/panfront/hello2019/raw/master/bd_logo1.png "百度logo")
+[baidu]:(http://gitee.com/panfront/hello2019/raw/master/bd_logo1.png "百度logo")
 
 [![baidu](http://gitee.com/panfront/hello2019/raw/master/bd_logo1.png "百度logo")](http://baidu.com)
 
