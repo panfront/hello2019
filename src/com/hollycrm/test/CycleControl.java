@@ -11,6 +11,7 @@ public class CycleControl {
      * 4。我想静静，bye
      */
     public static void main(String[] args) {
+        System.out.println("feature-1 start ");
         outer:
         while(true){
             //显示菜单并获得输入的选项值
