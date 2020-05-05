@@ -19,5 +19,10 @@ public class TestStringBuilder1 {
         System.out.println(sb);         //指定位置插入字符
         sb.delete(20,23);
         System.out.println(sb);         //删除区间
+
+        StringBuilder sb2 =new StringBuilder("(123,123,");
+        sb2.replace(sb2.length()-1,sb2.length(),")");
+        System.out.println(sb2);
+
     }
 }
